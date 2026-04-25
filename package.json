@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "supabase": "^2.95.3"
+  },
+  "scripts": {
+    "supabase": "supabase"
+  }
+}
